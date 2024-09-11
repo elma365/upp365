@@ -22,7 +22,7 @@ status-website:
   introTitle: "This is the open-source upptime monitor and status page, powered entirely by GitHub."
   introMessage:
   navbar:
-    - title: APP
+    - title: ELMA365
       href: https://elma365.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
