@@ -11,6 +11,8 @@ sites:
     url: https://commerce.elma365.ru/api/status
     expectedStatusCodes:
       - 204
+  - name: YS3
+    url: https://storage.yandexcloud.net/dl.elma365.com/onPremise/lts.yaml
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
