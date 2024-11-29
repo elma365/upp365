@@ -22,19 +22,19 @@
     "url": "https://commerce.elma365.ru/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/commerce.elma365.ru.ico",
     "slug": "commerce-365",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 739,
-    "timeWeek": 1247,
-    "timeMonth": 996,
-    "timeYear": 812,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 814,
+    "timeDay": 811,
+    "timeWeek": 1214,
+    "timeMonth": 995,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-11-29": 0
+      "2024-11-29": 12
     }
   },
   {
